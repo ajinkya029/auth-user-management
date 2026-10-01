@@ -18,53 +18,6 @@ The system provides user registration, login/logout, JWT-based authentication, p
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your API testing, MongoDB users collection, or admin/user-management interface here.
-
-### API — User Registration
-
-```md
-![User Registration API](./screenshots/register.png)
-```
-
-### API — User Login
-
-```md
-![User Login API](./screenshots/login.png)
-```
-
-### API — Current User
-
-```md
-![Current User API](./screenshots/current-user.png)
-```
-
-### API — Admin User Management
-
-```md
-![Admin User Management](./screenshots/admin-users.png)
-```
-
-### MongoDB — Users Collection
-
-```md
-![MongoDB Users](./screenshots/mongodb-users.png)
-```
-
-> **Screenshot folder structure**
-
-```text
-screenshots/
-├── register.png
-├── login.png
-├── current-user.png
-├── admin-users.png
-└── mongodb-users.png
-```
-
----
-
 ## ✨ Features
 
 ### 🔑 Authentication
@@ -126,7 +79,7 @@ Administrators can:
 ## 📁 Project Structure
 
 ```text
-mern-auth-user-management-backend/
+auth-user-management/
 │
 ├── src/
 │   ├── config/
@@ -168,11 +121,11 @@ mern-auth-user-management-backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-auth-user-management-backend.git
+git clone https://github.com/ajinkya029/auth-user-management.git
 ```
 
 ```bash
-cd mern-auth-user-management-backend
+cd auth-user-management
 ```
 
 ### 2. Install dependencies
